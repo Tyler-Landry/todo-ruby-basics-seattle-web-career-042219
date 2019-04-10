@@ -11,7 +11,7 @@ def argue(words)
 end
 
 def greeting(sent1, sent2)
-
+  "#{sent1} << #{sent2}"
 end
 
 def return_a_value
